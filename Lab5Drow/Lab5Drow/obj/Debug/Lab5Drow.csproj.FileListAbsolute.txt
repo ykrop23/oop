@@ -1,0 +1,15 @@
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\bin\Debug\Lab5Drow.exe.config
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\bin\Debug\Lab5Drow.exe
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\bin\Debug\Lab5Drow.pdb
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\obj\Debug\Lab5Drow.csprojAssemblyReference.cache
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\obj\Debug\MainWindow.g.cs
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\obj\Debug\App.g.cs
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\obj\Debug\Lab5Drow_MarkupCompile.cache
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\obj\Debug\Lab5Drow_MarkupCompile.lref
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\obj\Debug\MainWindow.baml
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\obj\Debug\Lab5Drow.g.resources
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\obj\Debug\Lab5Drow.Properties.Resources.resources
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\obj\Debug\Lab5Drow.csproj.GenerateResource.cache
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\obj\Debug\Lab5Drow.csproj.CoreCompileInputs.cache
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\obj\Debug\Lab5Drow.exe
+C:\Users\maxbo\source\repos\Lab5Drow\Lab5Drow\obj\Debug\Lab5Drow.pdb
