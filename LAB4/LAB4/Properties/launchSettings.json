@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LAB4": {
+      "commandName": "Project"
+    },
+    "newProfile1": {
+      "commandName": "Project"
+    }
+  }
+}
